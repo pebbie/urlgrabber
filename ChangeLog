@@ -1,3 +1,6 @@
+2015-11-17	Peb Aryan <peb.aryan@tuwien.ac.at>
+	* modify for use in python 3.4
+
 2013-10-09  Zdenek Pavlas <zpavlas@redhat.com>
 
 	* lots of enahncements and bugfixes
